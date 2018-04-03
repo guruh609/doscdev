@@ -7,40 +7,16 @@
     <title>Halaman Registrasi</title>
 
     <!-- <link href="assets/css/bootstrap.min.css" rel="stylesheet"> -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
         <!-- Bootstrap core CSS -->
-        <link href="vendorblog/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom styles for this template -->
 <link href="cssblog/blog-home.css" rel="stylesheet">
 
   </head>
   <body>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="#">Start Bootstrap</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home
-                <span class="sr-only">(current)</span>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="login.php">login</a>
-            </li>
-       
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+
 
     <div class="col-md-4 col-md-offset-4 form-login">
     
